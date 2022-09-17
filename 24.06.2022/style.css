@@ -1,0 +1,17 @@
+body{background-color: blueviolet;}
+.conteyner{background-color: aquamarine;
+    border:10px dotted red;
+    float:right;
+width:500px;
+height: 300px;
+}
+.box{width: 150px;
+height: 150px;
+background-color: black;
+margin: 20px 40px;}
+.text{color: blue;
+text-align:center;}
+img{width: 70px;
+    height: 60; 
+    margin-left: 50px;
+margin-top: 100px;}
